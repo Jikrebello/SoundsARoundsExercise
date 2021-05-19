@@ -1,0 +1,10 @@
+E:\Visual Studio Projects\C# Intermediate Programming\SoundsARounds\bin\Debug\SoundsARounds.exe.config
+E:\Visual Studio Projects\C# Intermediate Programming\SoundsARounds\bin\Debug\SoundsARounds.exe
+E:\Visual Studio Projects\C# Intermediate Programming\SoundsARounds\bin\Debug\SoundsARounds.pdb
+E:\Visual Studio Projects\C# Intermediate Programming\SoundsARounds\obj\Debug\SoundsARounds.csprojAssemblyReference.cache
+E:\Visual Studio Projects\C# Intermediate Programming\SoundsARounds\obj\Debug\SoundsARounds.Form1.resources
+E:\Visual Studio Projects\C# Intermediate Programming\SoundsARounds\obj\Debug\SoundsARounds.Properties.Resources.resources
+E:\Visual Studio Projects\C# Intermediate Programming\SoundsARounds\obj\Debug\SoundsARounds.csproj.GenerateResource.cache
+E:\Visual Studio Projects\C# Intermediate Programming\SoundsARounds\obj\Debug\SoundsARounds.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\C# Intermediate Programming\SoundsARounds\obj\Debug\SoundsARounds.exe
+E:\Visual Studio Projects\C# Intermediate Programming\SoundsARounds\obj\Debug\SoundsARounds.pdb
